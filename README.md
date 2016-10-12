@@ -10,4 +10,4 @@ pass urls in the script and it will show the status of url where it is malware o
 for more queries
 feel free to contact me
 mail-comingtoiit@gmail.com
-mob-9112042174
+
